@@ -13,6 +13,7 @@ This boilerplate provides a ready-to-use backend stack with Django, Nginx, and P
 
 Enjoy developing your awesome projects!
 
-**Disclaimer:** This boilerplate is provided as-is, and I am not responsible for any legal, ethical, or security-related issues that may arise from its use. Users are solely responsible for ensuring compliance with applicable laws, ethical standards, and security best practices in their use of this repository.
+**Disclaimer:** This boilerplate is provided as-is, I built it by following this article: https://testdriven.io/blog/dockerizing-django-with-postgres-gunicorn-and-nginx/
+, and I am not responsible for any legal, ethical, or security-related issues that may arise from its use. Users are solely responsible for ensuring compliance with applicable laws, ethical standards, and security best practices in their use of this repository.
 
 _Note: This boilerplate is intended for legitimate and ethical use in software development projects._
